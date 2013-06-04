@@ -1,4 +1,4 @@
 gethub_mb
 =========
 
-voorbeeld repo voor presentatie
+voorbeeld repo voor presentatie van Davey
